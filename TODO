@@ -1,0 +1,7 @@
+To-do list
+
+* Delete the database
+* Call the installer
+* Fetch the password and make it available in a text file
+* Add a cron to zap the database every 24 hours
+
